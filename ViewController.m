@@ -24,9 +24,18 @@
     NSLog(@"xixi");
     NSLog(@"我不是小强");
     NSLog(@"有水寨小霸王到此一游");
+    NSLog(@"什么鬼");
+
+    NSLog(@"xixi");
+    NSLog(@"我不是小强");
+    NSLog(@"有水寨小霸王到此一游");
+    
+
+    NSLog(@"我不是小强");
+    NSLog(@"郭雪城");
+
     NSLog(@"我不是小强");
 }
-
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
     // Dispose of any resources that can be recreated.
