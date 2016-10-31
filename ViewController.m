@@ -20,9 +20,13 @@
     NSLog(@"孙玮超");
     NSLog(@"什么鬼");
 
-    NSLog(@"有水寨小霸王到此一游");
-
+    NSLog(@"xixi");
     NSLog(@"我不是小强");
+    NSLog(@"有水寨小霸王到此一游");
+    
+    NSLog(@"我不是小强");
+
+}
 
 
 - (void)didReceiveMemoryWarning {
