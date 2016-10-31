@@ -24,10 +24,21 @@
     NSLog(@"xixi");
     NSLog(@"我不是小强");
     NSLog(@"有水寨小霸王到此一游");
+    NSLog(@"龙辉");
+
+    NSLog(@"我不是小强");
+
+
+
+    NSLog(@"快看，小强来了");
+
+
     NSLog(@"什么鬼");
+
 
     NSLog(@"xixi");
     NSLog(@"我不是小强");
+
     NSLog(@"有水寨小霸王到此一游");
     
 
