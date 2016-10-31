@@ -23,7 +23,19 @@
 
 
 
+
     NSLog(@"古振坤");
+
+
+    NSLog(@"黄建涛");
+    NSLog(@"有水寨小霸王到此一游");
+    NSLog(@"我不是小强");
+    NSLog(@"xixi");
+    NSLog(@"我不是小强");
+    NSLog(@"有水寨小霸王到此一游");
+    NSLog(@"林昊然");
+    NSLog(@"有水寨小霸王到此一游");
+    NSLog(@"什么鬼");
 
     NSLog(@"龙辉");
 
@@ -40,22 +52,16 @@
     NSLog(@"什么鬼");
 
 
+
     NSLog(@"xixi");
     NSLog(@"我不是小强");
 
     NSLog(@"有水寨小霸王到此一游");
-    
-
     NSLog(@"我不是小强");
     NSLog(@"郭雪城");
 
-
     NSLog(@"我不是小强");
-
 }
-
-
-
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
     // Dispose of any resources that can be recreated.
