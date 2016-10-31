@@ -30,6 +30,7 @@
 
 
     NSLog(@"我不是小强");
+    NSLog(@"zhao si a ")
 
 }
 
