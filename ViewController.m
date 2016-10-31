@@ -25,6 +25,13 @@
 
 }
 
+
+    NSLog(@"有水寨小霸王到此一游");
+
+    NSLog(@"我不是小强");
+
+
+
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
     // Dispose of any resources that can be recreated.
