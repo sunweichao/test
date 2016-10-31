@@ -49,17 +49,17 @@
 
     NSLog(@"我不是小强");
 
-
+    NSLog(@"我不是小强");
+    NSLog(@"zhao si a ")
 
 
     NSLog(@"快看，小强来了");
 
 
 
+
+
     NSLog(@"什么鬼");
-
-
-
     NSLog(@"xixi");
     NSLog(@"我不是小强");
 
