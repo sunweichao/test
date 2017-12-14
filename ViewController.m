@@ -17,7 +17,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
-    NSLog(@"孙玮超");
+    NSLog(@"规划如何让你听");
     
     NSLog(@"强遁——666之术v保存从");
     
