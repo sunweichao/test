@@ -19,7 +19,7 @@
     // Do any additional setup after loading the view, typically from a nib.
     NSLog(@"孙玮超");
     
-    NSLog(@"强遁——666之术");
+    NSLog(@"强遁——666之术v保存从");
     
     NSLog(@"jkfjsdkfnj;kasdnfsajf;ksndf;dnsflkansdf");
     
